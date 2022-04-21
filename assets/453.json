@@ -1,0 +1,66 @@
+{
+  "name": "The DownTown Hounds #453",
+  "symbol": "TDH",
+  "description": "meet me Dowtown!!",
+  "seller_fee_basis_points": 1500,
+  "image": "453.png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 453,
+  "collection": {
+    "name": "The Downtown Hounds",
+    "family": "My Hounds"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Downtown Hounds Final 0008s 0003 RBLinear"
+    },
+    {
+      "trait_type": "character",
+      "value": "Downtown Hounds Final 0007s 0000 Hound"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Downtown Hounds Final 0006s 0002 curious"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Downtown Hounds Final 0005s 0003 openmouth"
+    },
+    {
+      "trait_type": "shirts",
+      "value": "Downtown Hounds Final 0002s 0000 hoodie"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Downtown Hounds Final 0003s 0001 helihat"
+    },
+    {
+      "trait_type": "belts",
+      "value": "Downtown Hounds Final 0004s 0001 designer"
+    },
+    {
+      "trait_type": "earrings",
+      "value": "Downtown Hounds Final 0001s 0001 stud"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "Downtown Hounds Final 0000s 0000 spikecollar"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "453.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "BGzF5i5JHr1FfpkzkR3QcDp9CpJMbh41C7nPMyqAa3zG",
+        "share": 100
+      }
+    ]
+  }
+}
